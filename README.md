@@ -7,8 +7,11 @@ numéricos (estandarización, normalización MinMax)
 
 Se realiza estadística descriptiva (medidas: media, varianza, correlaciones, etc) 
 busqueda de variables influyentes que afectan los resultados.
-Se realiza clustering para buscar variables influyentes
-Se aplica reducción de dimensionalidad de todo el conjunto
+
+Se realiza clustering para buscar variables influyentes.
+
+Se aplica reducción de dimensionalidad de todo el conjunto.
+
 Se realiza un Split con 20% en Test.
 
 ## Requirimientos
